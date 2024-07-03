@@ -1,0 +1,1936 @@
+[
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Awaitable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandStart",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "CommandObject",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "StateFilter",
+        "importPath": "aiogram.filters",
+        "description": "aiogram.filters",
+        "isExtraImport": true,
+        "detail": "aiogram.filters",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMemberUpdated",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMemberUpdated",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMemberUpdated",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Update",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "TelegramObject",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackQuery",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommandScopeAllPrivateChats",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "BotCommand",
+        "importPath": "aiogram.types",
+        "description": "aiogram.types",
+        "isExtraImport": true,
+        "detail": "aiogram.types",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "md",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Router",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "F",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Dispatcher",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "BaseMiddleware",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "Bot",
+        "importPath": "aiogram",
+        "description": "aiogram",
+        "isExtraImport": true,
+        "detail": "aiogram",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums.parse_mode",
+        "description": "aiogram.enums.parse_mode",
+        "isExtraImport": true,
+        "detail": "aiogram.enums.parse_mode",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums.parse_mode",
+        "description": "aiogram.enums.parse_mode",
+        "isExtraImport": true,
+        "detail": "aiogram.enums.parse_mode",
+        "documentation": {}
+    },
+    {
+        "label": "ParseMode",
+        "importPath": "aiogram.enums.parse_mode",
+        "description": "aiogram.enums.parse_mode",
+        "isExtraImport": true,
+        "detail": "aiogram.enums.parse_mode",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "FSMContext",
+        "importPath": "aiogram.fsm.context",
+        "description": "aiogram.fsm.context",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.context",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "StorageKey",
+        "importPath": "aiogram.fsm.storage.base",
+        "description": "aiogram.fsm.storage.base",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.storage.base",
+        "documentation": {}
+    },
+    {
+        "label": "I18nContext",
+        "importPath": "aiogram_i18n.context",
+        "description": "aiogram_i18n.context",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n.context",
+        "documentation": {}
+    },
+    {
+        "label": "I18nContext",
+        "importPath": "aiogram_i18n.context",
+        "description": "aiogram_i18n.context",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n.context",
+        "documentation": {}
+    },
+    {
+        "label": "UserIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupMain",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserMain",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupMain",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserMain",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserMain",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupMain",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIngame",
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "isExtraImport": true,
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "is_correct_request",
+        "importPath": "bot.utils.validators",
+        "description": "bot.utils.validators",
+        "isExtraImport": true,
+        "detail": "bot.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "is_correct_request",
+        "importPath": "bot.utils.validators",
+        "description": "bot.utils.validators",
+        "isExtraImport": true,
+        "detail": "bot.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "set_userdata",
+        "importPath": "bot.utils.data_loaders",
+        "description": "bot.utils.data_loaders",
+        "isExtraImport": true,
+        "detail": "bot.utils.data_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "get_userdata",
+        "importPath": "bot.utils.data_loaders",
+        "description": "bot.utils.data_loaders",
+        "isExtraImport": true,
+        "detail": "bot.utils.data_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "bot.utils.data_loaders",
+        "description": "bot.utils.data_loaders",
+        "isExtraImport": true,
+        "detail": "bot.utils.data_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "set_userdata",
+        "importPath": "bot.utils.data_loaders",
+        "description": "bot.utils.data_loaders",
+        "isExtraImport": true,
+        "detail": "bot.utils.data_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "get_userdata",
+        "importPath": "bot.utils.data_loaders",
+        "description": "bot.utils.data_loaders",
+        "isExtraImport": true,
+        "detail": "bot.utils.data_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "bot.utils.data_loaders",
+        "description": "bot.utils.data_loaders",
+        "isExtraImport": true,
+        "detail": "bot.utils.data_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Voiting",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Round",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Round",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Voiting",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Round",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "isExtraImport": true,
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "bot.models.userdata",
+        "description": "bot.models.userdata",
+        "isExtraImport": true,
+        "detail": "bot.models.userdata",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "bot.models.userdata",
+        "description": "bot.models.userdata",
+        "isExtraImport": true,
+        "detail": "bot.models.userdata",
+        "documentation": {}
+    },
+    {
+        "label": "format_players",
+        "importPath": "bot.utils.player_formatter",
+        "description": "bot.utils.player_formatter",
+        "isExtraImport": true,
+        "detail": "bot.utils.player_formatter",
+        "documentation": {}
+    },
+    {
+        "label": "format_players",
+        "importPath": "bot.utils.player_formatter",
+        "description": "bot.utils.player_formatter",
+        "isExtraImport": true,
+        "detail": "bot.utils.player_formatter",
+        "documentation": {}
+    },
+    {
+        "label": "VotePlayer",
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "VotePlayer",
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "DoneVoiting",
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "VotePlayer",
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "DoneVoiting",
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "bot.config_reader",
+        "description": "bot.config_reader",
+        "isExtraImport": true,
+        "detail": "bot.config_reader",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "bot.config_reader",
+        "description": "bot.config_reader",
+        "isExtraImport": true,
+        "detail": "bot.config_reader",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "bot.config_reader",
+        "description": "bot.config_reader",
+        "isExtraImport": true,
+        "detail": "bot.config_reader",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "bot.config_reader",
+        "description": "bot.config_reader",
+        "isExtraImport": true,
+        "detail": "bot.config_reader",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "aiogram.filters.chat_member_updated",
+        "description": "aiogram.filters.chat_member_updated",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.chat_member_updated",
+        "documentation": {}
+    },
+    {
+        "label": "\\",
+        "importPath": "aiogram.filters.chat_member_updated",
+        "description": "aiogram.filters.chat_member_updated",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.chat_member_updated",
+        "documentation": {}
+    },
+    {
+        "label": "create_start_link",
+        "importPath": "aiogram.utils.deep_linking",
+        "description": "aiogram.utils.deep_linking",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.deep_linking",
+        "documentation": {}
+    },
+    {
+        "label": "create_start_link",
+        "importPath": "aiogram.utils.deep_linking",
+        "description": "aiogram.utils.deep_linking",
+        "isExtraImport": true,
+        "detail": "aiogram.utils.deep_linking",
+        "documentation": {}
+    },
+    {
+        "label": "I18nContext",
+        "importPath": "aiogram_i18n",
+        "description": "aiogram_i18n",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n",
+        "documentation": {}
+    },
+    {
+        "label": "LazyProxy",
+        "importPath": "aiogram_i18n",
+        "description": "aiogram_i18n",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n",
+        "documentation": {}
+    },
+    {
+        "label": "I18nContext",
+        "importPath": "aiogram_i18n",
+        "description": "aiogram_i18n",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n",
+        "documentation": {}
+    },
+    {
+        "label": "I18nContext",
+        "importPath": "aiogram_i18n",
+        "description": "aiogram_i18n",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n",
+        "documentation": {}
+    },
+    {
+        "label": "get_start_keyboard",
+        "importPath": "bot.keyboards.keyboards",
+        "description": "bot.keyboards.keyboards",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "get_start_keyboard",
+        "importPath": "bot.keyboards.keyboards",
+        "description": "bot.keyboards.keyboards",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "get_voting_keyboard",
+        "importPath": "bot.keyboards.keyboards",
+        "description": "bot.keyboards.keyboards",
+        "isExtraImport": true,
+        "detail": "bot.keyboards.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "set_groupdata",
+        "importPath": "bot.utils",
+        "description": "bot.utils",
+        "isExtraImport": true,
+        "detail": "bot.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_groupdata",
+        "importPath": "bot.utils",
+        "description": "bot.utils",
+        "isExtraImport": true,
+        "detail": "bot.utils",
+        "documentation": {}
+    },
+    {
+        "label": "format_players",
+        "importPath": "bot.utils",
+        "description": "bot.utils",
+        "isExtraImport": true,
+        "detail": "bot.utils",
+        "documentation": {}
+    },
+    {
+        "label": "start_new_round",
+        "importPath": "bot.handlers.game_functions",
+        "description": "bot.handlers.game_functions",
+        "isExtraImport": true,
+        "detail": "bot.handlers.game_functions",
+        "documentation": {}
+    },
+    {
+        "label": "start_new_round",
+        "importPath": "bot.handlers.game_functions",
+        "description": "bot.handlers.game_functions",
+        "isExtraImport": true,
+        "detail": "bot.handlers.game_functions",
+        "documentation": {}
+    },
+    {
+        "label": "everyone_has_voted",
+        "importPath": "bot.handlers.game_functions",
+        "description": "bot.handlers.game_functions",
+        "isExtraImport": true,
+        "detail": "bot.handlers.game_functions",
+        "documentation": {}
+    },
+    {
+        "label": "RequestFilter",
+        "importPath": "bot.filters.game_filters",
+        "description": "bot.filters.game_filters",
+        "isExtraImport": true,
+        "detail": "bot.filters.game_filters",
+        "documentation": {}
+    },
+    {
+        "label": "RequestFilter",
+        "importPath": "bot.filters.game_filters",
+        "description": "bot.filters.game_filters",
+        "isExtraImport": true,
+        "detail": "bot.filters.game_filters",
+        "documentation": {}
+    },
+    {
+        "label": "RequestFilter",
+        "importPath": "bot.filters.game_filters",
+        "description": "bot.filters.game_filters",
+        "isExtraImport": true,
+        "detail": "bot.filters.game_filters",
+        "documentation": {}
+    },
+    {
+        "label": "StatesGroup",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "aiogram.fsm.state",
+        "description": "aiogram.fsm.state",
+        "isExtraImport": true,
+        "detail": "aiogram.fsm.state",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "importPath": "bot.models",
+        "description": "bot.models",
+        "isExtraImport": true,
+        "detail": "bot.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "bot.models",
+        "description": "bot.models",
+        "isExtraImport": true,
+        "detail": "bot.models",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "importPath": "bot.models",
+        "description": "bot.models",
+        "isExtraImport": true,
+        "detail": "bot.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "importPath": "bot.models",
+        "description": "bot.models",
+        "isExtraImport": true,
+        "detail": "bot.models",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackData",
+        "importPath": "aiogram.filters.callback_data",
+        "description": "aiogram.filters.callback_data",
+        "isExtraImport": true,
+        "detail": "aiogram.filters.callback_data",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardMarkup",
+        "importPath": "aiogram_i18n.types",
+        "description": "aiogram_i18n.types",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n.types",
+        "documentation": {}
+    },
+    {
+        "label": "InlineKeyboardButton",
+        "importPath": "aiogram_i18n.types",
+        "description": "aiogram_i18n.types",
+        "isExtraImport": true,
+        "detail": "aiogram_i18n.types",
+        "documentation": {}
+    },
+    {
+        "label": "HttpUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "SecretStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "RequestFilter",
+        "kind": 6,
+        "importPath": "bot.filters.game_filters",
+        "description": "bot.filters.game_filters",
+        "peekOfCode": "class RequestFilter(BaseFilter):\n    async def __call__(self, message: Message) -> bool:\n        value = message.text\n        if value.isdigit():\n            return {'requested': int(value)}",
+        "detail": "bot.filters.game_filters",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.handlers.commands",
+        "description": "bot.handlers.commands",
+        "peekOfCode": "logger = logging.getLogger(name=__name__)\nrt = Router(name=__name__)\n@rt.message(Command('error'))\nasync def raise_error(message: Message):\n    raise Exception('this is test of the ErrorMiddleware')\n@rt.message(Command('info'))\nasync def command_info(message: Message, state: FSMContext):\n    data = await state.get_data()\n    data = json.dumps(data, indent=2, ensure_ascii=False)\n    await message.answer(",
+        "detail": "bot.handlers.commands",
+        "documentation": {}
+    },
+    {
+        "label": "rt",
+        "kind": 5,
+        "importPath": "bot.handlers.commands",
+        "description": "bot.handlers.commands",
+        "peekOfCode": "rt = Router(name=__name__)\n@rt.message(Command('error'))\nasync def raise_error(message: Message):\n    raise Exception('this is test of the ErrorMiddleware')\n@rt.message(Command('info'))\nasync def command_info(message: Message, state: FSMContext):\n    data = await state.get_data()\n    data = json.dumps(data, indent=2, ensure_ascii=False)\n    await message.answer(\n        md.pre_language(await state.get_state(), \"STATE\") + md.pre_language(data, \"DATA\"),",
+        "detail": "bot.handlers.commands",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.handlers.game_functions",
+        "description": "bot.handlers.game_functions",
+        "peekOfCode": "logger = logging.getLogger(name=__name__)\nasync def start_new_round(chat_id: int, bot: Bot, i18n: I18nContext, \n                          dispatcher: Dispatcher, groupkey: StorageKey):\n    groupdata = await dispatcher.fsm.storage.get_data(groupkey)\n    groupdata = GroupData(**groupdata)\n    groupdata.new_round()\n    players_names = [p.name for p in groupdata.current_round.alive.values()]\n    round_number = groupdata.round_number + 1\n    await dispatcher.fsm.storage.set_data(groupkey, groupdata.model_dump())\n    await dispatcher.fsm.storage.set_state(groupkey, GroupIngame.requesting)",
+        "detail": "bot.handlers.game_functions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.handlers.group",
+        "description": "bot.handlers.group",
+        "peekOfCode": "logger = logging.getLogger(name=__name__)\nrt = Router(name=__name__)\nrt.message.filter(F.chat.type.in_(('group', 'supergroup')))\n@rt.my_chat_member(ChatMemberUpdatedFilter(JOIN_TRANSITION))\nasync def join_group(event: ChatMemberUpdated, state: FSMContext,\n                     i18n: I18nContext, config: Config):\n    group_id = event.chat.id\n    data = GroupData(game_id=event.chat.id, settings=Settings(bank=config.bank, extent=config.extent))\n    await event.answer(\n        text=i18n.join_group(",
+        "detail": "bot.handlers.group",
+        "documentation": {}
+    },
+    {
+        "label": "rt",
+        "kind": 5,
+        "importPath": "bot.handlers.group",
+        "description": "bot.handlers.group",
+        "peekOfCode": "rt = Router(name=__name__)\nrt.message.filter(F.chat.type.in_(('group', 'supergroup')))\n@rt.my_chat_member(ChatMemberUpdatedFilter(JOIN_TRANSITION))\nasync def join_group(event: ChatMemberUpdated, state: FSMContext,\n                     i18n: I18nContext, config: Config):\n    group_id = event.chat.id\n    data = GroupData(game_id=event.chat.id, settings=Settings(bank=config.bank, extent=config.extent))\n    await event.answer(\n        text=i18n.join_group(\n            group_type=event.chat.type, ",
+        "detail": "bot.handlers.group",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.handlers.groupgame",
+        "description": "bot.handlers.groupgame",
+        "peekOfCode": "logger = logging.getLogger(name=__name__)\nrt = Router(name=__name__)\nrt.message.filter(F.chat.type.in_(('group', 'supergroup')))\nrt.message.filter(StateFilter(GroupIngame))\n@rt.message(RequestFilter(), StateFilter(GroupIngame.requesting))\nasync def get_money_request():\n    pass",
+        "detail": "bot.handlers.groupgame",
+        "documentation": {}
+    },
+    {
+        "label": "rt",
+        "kind": 5,
+        "importPath": "bot.handlers.groupgame",
+        "description": "bot.handlers.groupgame",
+        "peekOfCode": "rt = Router(name=__name__)\nrt.message.filter(F.chat.type.in_(('group', 'supergroup')))\nrt.message.filter(StateFilter(GroupIngame))\n@rt.message(RequestFilter(), StateFilter(GroupIngame.requesting))\nasync def get_money_request():\n    pass",
+        "detail": "bot.handlers.groupgame",
+        "documentation": {}
+    },
+    {
+        "label": "UserMain",
+        "kind": 6,
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "peekOfCode": "class UserMain(StatesGroup):\n    menu = State()\nclass UserIngame(StatesGroup):\n    requesting = State()\n    class voiting(StatesGroup):\n        person = State()\n        amount = State()\n    spectator = State()\nclass GroupMain(StatesGroup):\n    menu = State()",
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "UserIngame",
+        "kind": 6,
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "peekOfCode": "class UserIngame(StatesGroup):\n    requesting = State()\n    class voiting(StatesGroup):\n        person = State()\n        amount = State()\n    spectator = State()\nclass GroupMain(StatesGroup):\n    menu = State()\n    starting = State()\n    settings = State()",
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupMain",
+        "kind": 6,
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "peekOfCode": "class GroupMain(StatesGroup):\n    menu = State()\n    starting = State()\n    settings = State()\nclass GroupIngame(StatesGroup):\n    requesting = State()\n    voting = State()",
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "GroupIngame",
+        "kind": 6,
+        "importPath": "bot.handlers.states",
+        "description": "bot.handlers.states",
+        "peekOfCode": "class GroupIngame(StatesGroup):\n    requesting = State()\n    voting = State()",
+        "detail": "bot.handlers.states",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.handlers.user",
+        "description": "bot.handlers.user",
+        "peekOfCode": "logger = logging.getLogger(name=__name__)\nrt = Router(name=__name__)\nrt.message.filter(F.chat.type == 'private')\n@rt.message(CommandStart(deep_link=True, deep_link_encoded=True))\nasync def command_start_by_link(message: Message, command: CommandObject, bot: Bot,\n                                dispatcher: Dispatcher, state: FSMContext):    \n    game_id = int(command.args)\n    user_id = message.from_user.id\n    groupkey = StorageKey(bot.id, game_id, game_id)\n    # adding new player to the game data",
+        "detail": "bot.handlers.user",
+        "documentation": {}
+    },
+    {
+        "label": "rt",
+        "kind": 5,
+        "importPath": "bot.handlers.user",
+        "description": "bot.handlers.user",
+        "peekOfCode": "rt = Router(name=__name__)\nrt.message.filter(F.chat.type == 'private')\n@rt.message(CommandStart(deep_link=True, deep_link_encoded=True))\nasync def command_start_by_link(message: Message, command: CommandObject, bot: Bot,\n                                dispatcher: Dispatcher, state: FSMContext):    \n    game_id = int(command.args)\n    user_id = message.from_user.id\n    groupkey = StorageKey(bot.id, game_id, game_id)\n    # adding new player to the game data\n    groupdata = await dispatcher.fsm.storage.get_data(groupkey)",
+        "detail": "bot.handlers.user",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.handlers.usergame",
+        "description": "bot.handlers.usergame",
+        "peekOfCode": "logger = logging.getLogger(name=__name__)\nrt = Router(name=__name__)\nrt.message.filter(F.chat.type == 'private')\nrt.message.filter(StateFilter(UserIngame))\nasync def give_away_requests(userdata: UserData, groupdata: GroupData,\n                             i18n: I18nContext, bot: Bot, \n                             dispatcher: Dispatcher):\n    game_id = userdata.game_id\n    this_round = groupdata.current_round\n    groupkey = StorageKey(bot.id, game_id, game_id)",
+        "detail": "bot.handlers.usergame",
+        "documentation": {}
+    },
+    {
+        "label": "rt",
+        "kind": 5,
+        "importPath": "bot.handlers.usergame",
+        "description": "bot.handlers.usergame",
+        "peekOfCode": "rt = Router(name=__name__)\nrt.message.filter(F.chat.type == 'private')\nrt.message.filter(StateFilter(UserIngame))\nasync def give_away_requests(userdata: UserData, groupdata: GroupData,\n                             i18n: I18nContext, bot: Bot, \n                             dispatcher: Dispatcher):\n    game_id = userdata.game_id\n    this_round = groupdata.current_round\n    groupkey = StorageKey(bot.id, game_id, game_id)\n    await bot.send_message(game_id, i18n.all_requested.group())",
+        "detail": "bot.handlers.usergame",
+        "documentation": {}
+    },
+    {
+        "label": "VotePlayer",
+        "kind": 6,
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "peekOfCode": "class VotePlayer(CallbackData, prefix='vote'):\n    id: int\n    name: str\nclass DoneVoiting(CallbackData, prefix='vote'):\n    done: bool = True",
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "DoneVoiting",
+        "kind": 6,
+        "importPath": "bot.keyboards.callbacks",
+        "description": "bot.keyboards.callbacks",
+        "peekOfCode": "class DoneVoiting(CallbackData, prefix='vote'):\n    done: bool = True",
+        "detail": "bot.keyboards.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "get_start_keyboard",
+        "kind": 2,
+        "importPath": "bot.keyboards.keyboards",
+        "description": "bot.keyboards.keyboards",
+        "peekOfCode": "def get_start_keyboard(link: HttpUrl, \n                       i18n: I18nContext) -> InlineKeyboardMarkup:\n    return InlineKeyboardMarkup(\n        inline_keyboard=[\n            [InlineKeyboardButton(text=i18n.start.group.button(), url=link)]\n        ]\n    )\ndef get_voting_keyboard(player_ids: dict[int, Player], i18n: I18nContext) -> InlineKeyboardMarkup:\n    keyboard = [\n        [InlineKeyboardButton(",
+        "detail": "bot.keyboards.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "get_voting_keyboard",
+        "kind": 2,
+        "importPath": "bot.keyboards.keyboards",
+        "description": "bot.keyboards.keyboards",
+        "peekOfCode": "def get_voting_keyboard(player_ids: dict[int, Player], i18n: I18nContext) -> InlineKeyboardMarkup:\n    keyboard = [\n        [InlineKeyboardButton(\n            text=player.name, \n            callback_data=VotePlayer(\n                id=id, \n                name=player.name\n            ).pack()\n        )] for id, player in player_ids.items()\n    ]",
+        "detail": "bot.keyboards.keyboards",
+        "documentation": {}
+    },
+    {
+        "label": "ErrorMiddleware",
+        "kind": 6,
+        "importPath": "bot.middlewares.errormiddleware",
+        "description": "bot.middlewares.errormiddleware",
+        "peekOfCode": "class ErrorMiddleware(BaseMiddleware):\n    async def __call__(\n            self,\n            handler: Callable[[Message, Dict[str, Any]], Awaitable[Any]],\n            event: Message,\n            data: Dict[str, Any],\n    ) -> Any:\n        try:\n            return await handler(event, data)\n        except Exception as exception:",
+        "detail": "bot.middlewares.errormiddleware",
+        "documentation": {}
+    },
+    {
+        "label": "StorageMiddleware",
+        "kind": 6,
+        "importPath": "bot.middlewares.storagekeys",
+        "description": "bot.middlewares.storagekeys",
+        "peekOfCode": "class StorageMiddleware(BaseMiddleware):\n    async def __call__(\n            self,\n            handler: Callable[[TelegramObject, Dict[str, Any]], Awaitable[Any]],\n            event: TelegramObject,\n            data: Dict[str, Any],\n    ) -> Any:\n        logger.debug(event.model_dump_json(indent=2))\n        bot_id = data['bot'].id\n        if event.message",
+        "detail": "bot.middlewares.storagekeys",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.middlewares.storagekeys",
+        "description": "bot.middlewares.storagekeys",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass StorageMiddleware(BaseMiddleware):\n    async def __call__(\n            self,\n            handler: Callable[[TelegramObject, Dict[str, Any]], Awaitable[Any]],\n            event: TelegramObject,\n            data: Dict[str, Any],\n    ) -> Any:\n        logger.debug(event.model_dump_json(indent=2))\n        bot_id = data['bot'].id",
+        "detail": "bot.middlewares.storagekeys",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "kind": 6,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "class Request(BaseModel):\n    request: Optional[int] = None\n    response: Optional[int] = None\nclass Voiting(BaseModel):\n    who: Optional[int] = None\n    amount: Optional[int] = None\nclass Player(BaseModel):\n    \"\"\"Data for each player\"\"\"\n    name: str = 'default'\n    money: int = 0",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Voiting",
+        "kind": 6,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "class Voiting(BaseModel):\n    who: Optional[int] = None\n    amount: Optional[int] = None\nclass Player(BaseModel):\n    \"\"\"Data for each player\"\"\"\n    name: str = 'default'\n    money: int = 0\n    request: Request = Request()\n    voiting: list[Voiting] = Field(default_factory=list)\n    has_voted: bool = False",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Player",
+        "kind": 6,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "class Player(BaseModel):\n    \"\"\"Data for each player\"\"\"\n    name: str = 'default'\n    money: int = 0\n    request: Request = Request()\n    voiting: list[Voiting] = Field(default_factory=list)\n    has_voted: bool = False\n    def new_vote(self, who: Optional[int] = None, \n                 amount: Optional[int] = None) -> None:\n        self.voiting.append(Voiting(who=who, amount=amount))",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Round",
+        "kind": 6,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "class Round(BaseModel):\n    \"\"\"Data for one game round\"\"\"\n    bank: int\n    shrinked: Optional[int] = None\n    alive: dict[int, Player] = Field(default_factory=dict)\n    lost: dict[int, str] = Field(default_factory=dict)\n    def all_requested(self) -> bool:\n        \"\"\"Returns whether all players requested or not\"\"\"\n        return all([p.request.request for p in self.alive.values()])\n    def all_voted(self) -> bool:",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "class Settings(BaseModel):\n    \"\"\"Settings of a group game\"\"\"\n    # bank per one\n    bank: int\n    extent: float\nclass GroupData(BaseModel):\n    game_id: int\n    settings: Settings\n    players: dict[int, str] = Field(default_factory=dict)\n    rounds: list[Round] = Field(default_factory=list)",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "GroupData",
+        "kind": 6,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "class GroupData(BaseModel):\n    game_id: int\n    settings: Settings\n    players: dict[int, str] = Field(default_factory=dict)\n    rounds: list[Round] = Field(default_factory=list)\n    round_number: int = -1\n    lost: dict[int, str] = Field(default_factory=dict)\n    bank: Optional[int] = None\n    def menu(self, bank: int) -> None:\n        \"\"\"Sets the default data for the menu state\"\"\"",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "bot.models.groupdata",
+        "description": "bot.models.groupdata",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass Request(BaseModel):\n    request: Optional[int] = None\n    response: Optional[int] = None\nclass Voiting(BaseModel):\n    who: Optional[int] = None\n    amount: Optional[int] = None\nclass Player(BaseModel):\n    \"\"\"Data for each player\"\"\"\n    name: str = 'default'",
+        "detail": "bot.models.groupdata",
+        "documentation": {}
+    },
+    {
+        "label": "TempData",
+        "kind": 6,
+        "importPath": "bot.models.userdata",
+        "description": "bot.models.userdata",
+        "peekOfCode": "class TempData(BaseModel):\n    money: Optional[int] = None\n    voted: Optional[str] = None\n    spent: Optional[int] = None\n    def has_money(self) -> bool:\n        return self.money > 0\n    def spend(self, amount: int) -> None:\n        self.spent = amount\n        self.money -= amount\nclass UserData(BaseModel):",
+        "detail": "bot.models.userdata",
+        "documentation": {}
+    },
+    {
+        "label": "UserData",
+        "kind": 6,
+        "importPath": "bot.models.userdata",
+        "description": "bot.models.userdata",
+        "peekOfCode": "class UserData(BaseModel):\n    game_id: int\n    temp: Optional[TempData] = TempData()",
+        "detail": "bot.models.userdata",
+        "documentation": {}
+    },
+    {
+        "label": "format_players",
+        "kind": 2,
+        "importPath": "bot.utils.player_formatter",
+        "description": "bot.utils.player_formatter",
+        "peekOfCode": "def format_players(players: list[str]) -> str:\n    \"\"\"Formats a list of nicknames to the readable list\"\"\"\n    return '\\n'.join([f' - {html.bold(p)}' for p in players])",
+        "detail": "bot.utils.player_formatter",
+        "documentation": {}
+    },
+    {
+        "label": "is_correct_request",
+        "kind": 2,
+        "importPath": "bot.utils.validators",
+        "description": "bot.utils.validators",
+        "peekOfCode": "def is_correct_request(amount: int, border: int | tuple[int, int]) -> bool:\n    if isinstance(border, int):\n        return 0 <= amount <= border\n    elif isinstance(border, tuple):\n        return border[0] <= amount <= border[1]\n    else:\n        raise ValueError(f'incorrect type: {type(border)}')",
+        "detail": "bot.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "bot.config_reader",
+        "description": "bot.config_reader",
+        "peekOfCode": "class Config(BaseSettings):\n    bot_token: SecretStr\n    minimum_players: int\n    bank: int\n    extent: int\n    class Config:\n        env_file = '.env'\n        env_file_encoding = 'utf-8'\nconfig = Config()",
+        "detail": "bot.config_reader",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "bot.config_reader",
+        "description": "bot.config_reader",
+        "peekOfCode": "config = Config()",
+        "detail": "bot.config_reader",
+        "documentation": {}
+    },
+    {
+        "label": "get_path",
+        "kind": 2,
+        "importPath": "goto",
+        "description": "goto",
+        "peekOfCode": "def get_path():\n    try:\n        if '__main__' in sys.modules and hasattr(sys.modules['__main__'], '__file__'):\n            return os.path.abspath(sys.modules['__main__'].__file__)\n    except (AttributeError, KeyError):\n        pass\n    try:\n        if hasattr(sys, 'argv') and sys.argv:\n            return os.path.abspath(sys.argv[0])\n    except (AttributeError, IndexError):",
+        "detail": "goto",
+        "documentation": {}
+    },
+    {
+        "label": "goto",
+        "kind": 2,
+        "importPath": "goto",
+        "description": "goto",
+        "peekOfCode": "def goto(line: int, file: str | None = None) -> None:\n    file = file or get_path()\n    with open(os.path.abspath(file), encoding='utf-8') as file:\n        code = ''.join(file.readlines()[line-1:])\n        exec(code)\n        sys.exit()",
+        "detail": "goto",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class html:\n    def bold(s):\n        return s\npls = ['teamo', 'enoat', 'sknxq']\ndef format(pls: list) -> str:\n    players = []\n    length = len(pls)\n    for i in range(length):\n        s = '╰' if i == length - 1 else '├'\n        players.append(f'  | {s} ' + html.bold(pls[i]))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "format",
+        "kind": 2,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "def format(pls: list) -> str:\n    players = []\n    length = len(pls)\n    for i in range(length):\n        s = '╰' if i == length - 1 else '├'\n        players.append(f'  | {s} ' + html.bold(pls[i]))\n    return '\\n'.join(players)\nprint(format(pls))\nprint   ('hhiii')\ntext    =   1024521",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "pls",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "pls = ['teamo', 'enoat', 'sknxq']\ndef format(pls: list) -> str:\n    players = []\n    length = len(pls)\n    for i in range(length):\n        s = '╰' if i == length - 1 else '├'\n        players.append(f'  | {s} ' + html.bold(pls[i]))\n    return '\\n'.join(players)\nprint(format(pls))\nprint   ('hhiii')",
+        "detail": "test",
+        "documentation": {}
+    }
+]
