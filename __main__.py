@@ -54,7 +54,6 @@ async def main():
         voting.rt
     )
 
-
     await set_ui_commands(bot)
 
     await bot.delete_webhook(drop_pending_updates=True)
@@ -63,7 +62,6 @@ async def main():
         allowed_updates=dp.resolve_used_update_types(),
         config=config
     )
-
 
 if __name__ == "__main__":
     basicConfig(
