@@ -35,7 +35,7 @@ from aiogram_i18n.cores import FluentRuntimeCore
 # handlers, tho idl now... i just tired of this project for now
 # maybe i will continue it later, well, i hope so at least
 #                              ...
-# 5:10 am / 03.08.2024
+# 5:10 am / 03.08.2024 / COMMIT ALL
 
 logger = getLogger(__name__)
 
