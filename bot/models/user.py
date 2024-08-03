@@ -20,9 +20,3 @@ class TempData(BaseModel):
 class UserData(BaseModel):
     game_id: Optional[int]
     temp: Optional[TempData] = TempData()
-
-
-class User(BaseModel):
-    data: Optional[UserData]
-    state: Optional[str]
-    key: Optional[StorageKey]

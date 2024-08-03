@@ -163,13 +163,3 @@ class GroupData(BaseModel):
     @current_round.setter
     def current_round(self, round: Round) -> None:
         self.rounds[self.round_number] = round
-
-
-class Group(BaseModel):
-    data: Optional[GroupData]
-    state: Optional[str]
-    key: Optional[StorageKey]
-
-    class Config:
-        arbitrary_types_allowed=True
-    
